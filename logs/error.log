@@ -1,0 +1,231 @@
+[24-Jun-2025 23:24:56 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:24:56 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:24:56 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:24:56 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:24:58 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:24:58 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:25:04 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:25:04 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:25:08 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:25:08 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:25:15 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:25:15 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:25:19 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:25:19 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:25:19 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:25:19 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:25:21 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:25:21 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:27:46 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:27:46 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:27:48 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:27:48 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:27:49 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:27:49 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:27:49 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:27:49 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:28:14 Europe/Moscow] Database connection failed: could not find driver
+[24-Jun-2025 23:28:14 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:33:09 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'localhost' (using password: YES)
+[24-Jun-2025 23:33:09 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:33:09 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'localhost' (using password: YES)
+[24-Jun-2025 23:33:09 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:33:35 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'localhost' (using password: YES)
+[24-Jun-2025 23:33:35 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:33:46 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'localhost' (using password: YES)
+[24-Jun-2025 23:33:46 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:34:03 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'localhost' (using password: YES)
+[24-Jun-2025 23:34:03 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:34:03 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'localhost' (using password: YES)
+[24-Jun-2025 23:34:03 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:38:07 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:38:07 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:38:07 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:38:07 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:38:09 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:38:09 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:38:09 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:38:09 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:38:11 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:38:11 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:38:11 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:38:11 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:38:12 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:38:12 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:38:12 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:38:12 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:41:34 Europe/Moscow] Database connection failed: SQLSTATE[42000] [1044] Access denied for user 'u186478_coco_shamil'@'%' to database 'coco_instruments'
+[24-Jun-2025 23:41:34 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:41:34 Europe/Moscow] Database connection failed: SQLSTATE[42000] [1044] Access denied for user 'u186478_coco_shamil'@'%' to database 'coco_instruments'
+[24-Jun-2025 23:41:34 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:43:42 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:43:42 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:43:42 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:43:42 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:43:46 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:43:46 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:43:46 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:43:46 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:43:47 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:43:47 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:43:48 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:43:48 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:43:56 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:43:56 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:43:56 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:43:56 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:46:51 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:46:51 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:46:51 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:46:51 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:46:51 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:46:51 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:46:57 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:46:57 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:47:00 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:47:00 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:47:00 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:47:00 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:47:01 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:47:01 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:47:04 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:47:04 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:47:04 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:47:04 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:52:54 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:52:54 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:52:54 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:52:54 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:52:54 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:52:54 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:53:01 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:53:01 Europe/Moscow] Database connection failed: Database connection failed
+[24-Jun-2025 23:53:01 Europe/Moscow] Database connection failed: SQLSTATE[28000] [1045] Access denied for user 'coco_shamil'@'lars.handyhost.ru' (using password: YES)
+[24-Jun-2025 23:53:01 Europe/Moscow] Database connection failed: Database connection failed
+[25-Jun-2025 00:01:54 Europe/Moscow] API Error: Endpoint file not found: /var/www/u186478/data/www/u186478.test-handyhost.ru/api/endpoints/auth.php in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:149
+[25-Jun-2025 00:02:00 Europe/Moscow] API Error: Endpoint file not found: /var/www/u186478/data/www/u186478.test-handyhost.ru/api/endpoints/auth.php in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:149
+[25-Jun-2025 00:04:29 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:29 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:29 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:29 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:30 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:30 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:31 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:31 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:32 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:32 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:32 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:33 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:33 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:33 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:39 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:39 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:39 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:39 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:45 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:45 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:47 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:47 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:04:47 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:05:13 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:05:13 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:05:26 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:05:26 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:18 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:18 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:18 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:18 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:23 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:23 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:23 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:23 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:48 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:10:48 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:20:45 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:20:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:20:45 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:20:45 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:21:24 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:21:24 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:21:25 Europe/Moscow] PHP Warning:  require_once(/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php): Failed to open stream: No such file or directory in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32
+[25-Jun-2025 00:21:25 Europe/Moscow] PHP Fatal error:  Uncaught Error: Failed opening required '/var/www/u186478/data/www/u186478.test-handyhost.ru/api/auth.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /var/www/u186478/data/www/u186478.test-handyhost.ru/api/index.php on line 32

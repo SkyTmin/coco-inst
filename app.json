@@ -1,0 +1,54 @@
+{
+  "expo": {
+    "name": "Coco Camera",
+    "slug": "coco-camera",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#000000",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.skytmin.cococamera",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Coco Camera использует камеру, чтобы показывать направляющие композиции и делать снимки.",
+        "NSPhotoLibraryUsageDescription": "Доступ к фотографиям нужен, чтобы выбирать портреты-эскизы и накладывать их поверх видоискателя.",
+        "NSPhotoLibraryAddUsageDescription": "Разрешение нужно, чтобы сохранять сделанные снимки в вашу галерею."
+      }
+    },
+    "android": {
+      "package": "com.skytmin.cococamera",
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Coco Camera использует камеру, чтобы показывать направляющие композиции и делать снимки."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Доступ к фотографиям нужен, чтобы выбирать портреты-эскизы и накладывать их поверх видоискателя."
+        }
+      ],
+      [
+        "expo-media-library",
+        {
+          "savePhotosPermission": "Разрешение нужно, чтобы сохранять сделанные снимки в вашу галерею.",
+          "isAccessMediaLocationEnabled": false
+        }
+      ]
+    ]
+  }
+}
